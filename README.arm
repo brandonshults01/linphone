@@ -20,7 +20,7 @@ First, be aware that only the console version of linphone can compile on ARM.
 	 Uncompress all these
 	tarballs. 
 	
-
+new line added to "xphase-testing"
 Very important things common to all packages being cross compiled:
 ******************************************************************
 * copy the ipaq-config.site in the ipkg/ directory of linphone into some safe place,
